@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "algorithm": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "iostream": "cpp"
     },
     "git.ignoreLimitWarning": true
 }
